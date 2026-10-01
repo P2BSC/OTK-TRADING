@@ -1,0 +1,1 @@
+V7.2 : à côté de la jauge mensuelle, trois cases affichent les totaux d'octobre, novembre et décembre.
